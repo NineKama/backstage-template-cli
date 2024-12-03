@@ -56,7 +56,7 @@ Validation successful! The YAML file is valid.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/backstage-template.git
+   git clone https://github.com/NineKama/backstage-template-cli.git
    cd backstage-template
    ```
 
