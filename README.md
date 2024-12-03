@@ -1,5 +1,5 @@
 
-# backstage template CLI
+# Backstage Template CLI
 
 ## Overview
 The **backstage template CLI** is a powerful tool designed to manage and automate the creation, validation, and deployment of Backstage component YAML files. With a user-friendly interface and reusable modules, this CLI simplifies your workflow for Backstage projects.
